@@ -1,0 +1,17 @@
+Sample Syntax and Description
+
+git clone ssh://git@github.com/cjricafortsy/TaskPerformance_PrefinalsExam.git
+( Clones the Repository from github to pc )
+
+git branch listallcommands
+( Creates a new branch to repository named listallcommands )
+
+git add listallcommands.txt
+( Add a file to staging area )
+--> Staging are refers to the repository directory in the pc
+
+git push origin listallcommands
+( Gives changes to the repository in the github )
+
+git commit -m "first commit"
+( Commit changes from pc to github )
